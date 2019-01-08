@@ -1,5 +1,5 @@
 # Projet IoT 
-Groupe: 
+**Groupe:**
   * David Tang [@dvdtng](https://github.com/dvdtng)
   * Pascal Lim [@NekoDenka](https://github.com/NekoDenka)
   * Randy Reinette [@rreinette](https://github.com/rreinette)
